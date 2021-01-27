@@ -1,0 +1,8 @@
+name: Ambulance
+version: 1.0
+main: com.gmail.nimadastmalchi.ambulance.Main
+api-version: 1.16
+
+commands:
+  ambulance:
+    description: Ambulance command.
